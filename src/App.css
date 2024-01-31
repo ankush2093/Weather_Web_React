@@ -47,6 +47,8 @@
   .enterCity{
     color: #28f0cc;
     font-weight: bolder;
+    display: flex;
+    text-align: start;
     
   }
   .weatherResultBox {

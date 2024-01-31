@@ -51,8 +51,9 @@ function App() {
     <div className="col-md-12">
       <div className="weatherBg">
         <h1 className="heading">Weather App</h1>
+        <h4 className="enterCity">Enter Your City Name &#9759;</h4>
         <div className="d-grid gap-3 col-4 mt-4">
-          <h4 className="enterCity">Enter Your City &#9759;</h4>
+        
           <input
             type="text"
             className="form-control"
